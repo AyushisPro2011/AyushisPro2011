@@ -1,1 +1,2 @@
-I am Ayush , a wannabe ui/ux designer and Frontend-dev
+# Hi! I am Ayush
+I am Ayush, A beginner programmer, CS student and Tech Enthusiast from Gujarat,India. I started coding in my early teens and slowly got more and more interested in the world of Computers. I have experience in various sectors ranging from web dev both frontend and backend to cross-platform app devlopment. If you want to contact me, you can reach out to me on my e-mail ayushgupta.svma@gmail.com. That's it for my Intro, wish you a good day:)
